@@ -1,1 +1,3 @@
-This gem was used in a tutorial I wrote for creating ruby gems.  You can see teh details here: http://buzaz.com/index.php/2010/01/03/how-to-build-a-ruby-gem
+This gem was used in a tutorial I wrote for creating ruby gems.  
+
+You can see the details here: http://buzaz.com/index.php/2010/01/03/how-to-build-a-ruby-gem
